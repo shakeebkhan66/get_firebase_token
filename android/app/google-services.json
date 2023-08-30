@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "270540357546",
+    "project_id": "get-token-feaa2",
+    "storage_bucket": "get-token-feaa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270540357546:android:856ab3030d1bf640bbf5d3",
+        "android_client_info": {
+          "package_name": "com.example.get_firebase_token"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270540357546-s6t9rj2visphcgj06omv7domf7l5o2sc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4umgB3y1PMoIeb0UYLGMI4rhzKMcfdgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270540357546-s6t9rj2visphcgj06omv7domf7l5o2sc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
